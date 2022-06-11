@@ -1,6 +1,6 @@
 # django-3-password-generator
 
-The project was my introduction to the Django Framework, It made use of bootsrap 4 , django and sql lite as the database. 
+The project was my introduction to the Django Framework, It made use of bootsrap 4 , django and sql lite as the database. Here is the output for the same.
 
-Here is the output for the same.
+
 ![video-to-gif-converter](https://user-images.githubusercontent.com/46391923/173190567-35dedc15-de6b-4264-b329-303e02857a2c.gif)
